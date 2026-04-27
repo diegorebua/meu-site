@@ -60,7 +60,7 @@ const handleNavClick = (targetId: string) => {
             'inline-block mb-6 px-4 py-1 rounded-full border text-[11px] font-bold tracking-widest uppercase',
             isDarkMode ? 'border-zinc-800 bg-zinc-900 text-zinc-400' : 'border-blue-100 bg-blue-50 text-blue-600'
           ]">
-            Engenheiro Full Stack Sênior
+            Desenvolvedor de Software
           </div>
           <h1 :class="['text-6xl md:text-8xl font-black mb-8 tracking-tighter leading-none', isDarkMode ? 'text-white' : 'text-slate-900']">
             Criando <span class="text-blue-600">Experiências</span><br />Digitais.

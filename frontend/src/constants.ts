@@ -50,7 +50,7 @@ export const SKILLS: Skill[] = [
 export const EXPERIENCES: Experience[] = [
   {
     company: 'Tech Solutions Global',
-    role: 'Desenvolvedor Full Stack Sênior',
+    role: 'Desenvolvedor de Software',
     period: '2021 - Presente',
     description: [
       'Arquitetura de microsserviços com Spring Boot e Node.js para sistemas de alta disponibilidade.',
@@ -60,7 +60,7 @@ export const EXPERIENCES: Experience[] = [
   },
   {
     company: 'Innovation Labs',
-    role: 'Engenheiro Full Stack',
+    role: 'Desenvolvedor de Software',
     period: '2018 - 2021',
     description: [
       'Desenvolveu múltiplos produtos SaaS baseados em React lidando com milhares de usuários.',
